@@ -1,4 +1,4 @@
-# Tertiary Protein Prediction Problem
+# Tertiary Protein Structure Prediction
 
 ## Summary
 In this project, we used deep learning to predict tertiary protein structures from primary and secondary protein structures. We built two networks, one for predicting torsion angles and one for predicting distance matrices.
