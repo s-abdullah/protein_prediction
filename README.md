@@ -8,6 +8,7 @@ The optimizer used is Adamax and the number of epochs is 5 after which the model
 [Training Data](https://www.kaggle.com/c/cu-deep-learning-spring19-hw2/data)
 
 ## Network Architectures
+Both Netwokrs use a series of Convolutions on the input before feeding the data to the LSTM 
 ### Angle Prediction Network
 ![alt text](https://github.com/atalero/protein_prediction/blob/master/angle_network.png)
 ### Distance Prediction Network
